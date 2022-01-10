@@ -221,4 +221,5 @@ function retirar_saldo_conta(nomeConta,quantia){
 
     console.log(chalk.bgGreen.black.bold(`Saque no valor de R$${quantia} foi realizado com sucesso !`))
     operacoes()  
+    
 }
